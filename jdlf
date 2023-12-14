@@ -1,0 +1,11 @@
+[33mcommit 5b8689acb4c45fecdf3922056d0dbd9c39617fff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjds[m[33m)[m
+Author: Justin Stafford <duckyabrams@gmail.com>
+Date:   Thu Dec 14 10:31:37 2023 -0800
+
+    initial html layout - created style.css and script.js
+
+[33mcommit 83f504c05bb40f4dc89025f14d8afb32d70b2ec9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Justin Stafford <122784630+justinstafford02@users.noreply.github.com>
+Date:   Thu Dec 14 08:58:28 2023 -0800
+
+    Initial commit
