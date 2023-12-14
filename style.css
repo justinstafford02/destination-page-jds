@@ -1,0 +1,18 @@
+header.container,
+#user_input_form
+{
+    display: flex;
+    flex-direction: column;
+    align-items: cente;
+}
+ 
+#user_input_form {
+    align-items: center;
+    padding: 2rem;
+}
+
+#user_input_form input, 
+#user_input_form textarea {
+    margin-bottom: 1rem;
+}
+
